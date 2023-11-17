@@ -28,4 +28,4 @@ git merge development
 11. git status
 12. git commit -m "development2main"
 
-https://github.com/YuriiMerkulov/new-project/blob/main/README.md
+https://github.com/YuriiMerkulov/new-project/blob/main/readme.md
